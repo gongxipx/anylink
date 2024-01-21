@@ -17,16 +17,6 @@ AnyLink 服务端仅在 CentOS 7、CentOS 8、Ubuntu 18.04、Ubuntu 20.04 测试
 
 ![online](doc/screenshot/online.jpg)
 
-## Donate
-
-> 如果您觉得 anylink 对你有帮助，欢迎给我们打赏，也是帮助 anylink 更好的发展。
->
-> [查看打赏列表](doc/README.md)
-
-<p>
-    <img src="doc/screenshot/wxpay2.png" width="400" />
-</p>
-
 ## Installation
 
 > 没有编程基础的同学建议直接下载 release 包，从下面的地址下载 anylink-deploy.tar.gz
